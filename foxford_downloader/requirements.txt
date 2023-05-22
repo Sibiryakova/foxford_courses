@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 beautifulsoup4==4.7.1
 more-itertools==7.1.0
 PyInquirer==1.0.3
